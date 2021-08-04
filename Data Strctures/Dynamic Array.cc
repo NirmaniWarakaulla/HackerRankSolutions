@@ -31,3 +31,7 @@ public class Solution {
         scan.close();
     }
 }
+
+
+
+// try with java 7
